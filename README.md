@@ -1,5 +1,6 @@
 # Calculator-App
-An easy and classic calculator app.
+Classic and easy calculator application.
+Developing the application in Android studio Using the Java language.
 
 
 
